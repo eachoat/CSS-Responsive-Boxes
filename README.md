@@ -13,7 +13,7 @@ Take these designs and make them into a simple website!
 ### Media Query 1
 
 
-![](./imgs/r1.png)
+![][def]
 
 ### Media Query 2
 
@@ -22,3 +22,6 @@ Take these designs and make them into a simple website!
 ### Media Query 3
 
 ![](./imgs/r3.png)
+
+
+[def]: ./imgs/r1.png
